@@ -5,8 +5,8 @@ theme = 'coming-soon'
 
 [params]
     title = "Celeridad Tech Blog" 
-    description = "A refreshed blog site built using Hugo!"
+    description = "A refreshed blog site is on its way!"
     favicon = ""
     message = "COMING SOON!" 
-    release = "January 1, 2026"
+    release = "April 20, 2025"
     background = "" 
