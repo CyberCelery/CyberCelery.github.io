@@ -1,4 +1,12 @@
 baseURL = 'https://cybercelery.github.io'
 languageCode = 'en-us'
-title = 'Coming Soon'
 theme = 'coming-soon'
+
+
+[params]
+    title = "Celeridad Tech Blog" 
+    description = "A refreshed blog site built using Hugo!"
+    favicon = ""
+    message = "COMING SOON!" 
+    release = "January 1, 2026"
+    background = "" 
