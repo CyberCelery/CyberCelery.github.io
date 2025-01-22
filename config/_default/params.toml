@@ -1,4 +1,4 @@
-colorScheme = "autumn"
+colorScheme = "noir"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
@@ -8,38 +8,41 @@ disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
+defaultBackgroundImage = "cyber.jpg"
+defaultFeaturedImage = "gfl4icon.jpg"
 
 [header]
 layout = "fixed"
 
 [footer]
 showMenu = true
-showCopyright = true
+showCopyright = false
 showThemeAttribution = true
 showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "background"
+layout = "custom"
 showRecent = true
-showRecentItems = 5
+showRecentItems = 3
 showMoreLink = false
 showMoreLinkDest = "/posts/"
-cardView = false
+cardView = true
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
+layoutBackgroundBlur = true
+homepageImage = "cyber.jpg"
 
 [article]
 showDate = true
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
-showDateUpdated = false
+showDateUpdated = true
 showAuthor = true
 showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
@@ -55,7 +58,7 @@ showWordCount = true
 showZenMode = false
 
 [list]
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false

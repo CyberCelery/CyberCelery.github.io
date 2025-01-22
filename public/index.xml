@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Celeridad Tech Blog</title>
+    <title>Celeridad Tech</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Celeridad Tech Blog</description>
+    <description>Recent content on Celeridad Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Adam Celeridad</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Celeridad Cybersecurity Services</title>
+      <link>http://localhost:1313/about/services/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/services/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/services/_featured.jpg" />
+    </item>
     
   </channel>
 </rss>

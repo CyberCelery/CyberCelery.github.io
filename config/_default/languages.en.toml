@@ -2,13 +2,17 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Celeridad Tech Blog"
+title = "Celeridad Tech"
 
 [params]
 displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
+logo = ""
 
-[params.author]
+[author]
 name = "Adam Celeridad"
+image = "gfl4icon.jpg"
+headline = "Some cyber guy in a cyber world"
+bio = "I'm really just a chill cyber guy"
