@@ -1,0 +1,4 @@
+baseURL = 'CyberCelery.github.io'
+languageCode = 'en-us'
+title = 'Coming Soon'
+theme = 'coming-soon'
